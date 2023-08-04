@@ -35,9 +35,8 @@ Jonas Bernhard Tuft
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Connect with Us
+## Connect with Me
 
-[![Follow us on Twitter](https://img.shields.io/twitter/follow/cloudsolutions.svg?style=social&logo=twitter)](https://twitter.com/cloudsolutions)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue.svg)](https://www.linkedin.com/company/cloud-solutions)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue.svg)](https://www.linkedin.com/in/jonas-bernhard-tuft-5147b717a/)
 
 </div>
