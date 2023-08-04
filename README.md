@@ -9,7 +9,6 @@
 
 Welcome to Cloud Solutions, your gateway to a seamless cloud computing experience. This is the frontend part of the Cloud Solutions web application, built with React.
 
-![Cloud Solutions Screenshot](https://yourdomain.com/path/to/your/screenshot.png)
 
 ## Features
 - Explore Cloud Services: Browse and discover a wide range of cloud services at your fingertips.
