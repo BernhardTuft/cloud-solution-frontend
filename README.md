@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://yourdomain.com/path/to/your/logo.png" alt="Cloud Solutions Logo" width="200">
 </div>
 
 # Cloud Solutions Frontend
